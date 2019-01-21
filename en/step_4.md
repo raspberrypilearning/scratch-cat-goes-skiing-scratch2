@@ -31,6 +31,8 @@ You now need to add code to the sprite to make it move:
 1. `Hide`{:class="blocklooks"} when it reaches the top
 1. `Wait for 1 second`{:class="blockcontrol"} and then repeat
 
+![obstacle sprite](images/obstacle_sprite.png)
+
 ```blocks
 when green flag clicked
 forever 

@@ -28,6 +28,8 @@ Add code to your skiing cat sprite so that it appears at the top of the slope an
 
 ![skier on slope](images/skier_on_the_slope.png)
 
+![skier sprite](images/skier_sprite_small.png)
+
 ```blocks
 when green flag clicked
 go to x: (0) y: (100)

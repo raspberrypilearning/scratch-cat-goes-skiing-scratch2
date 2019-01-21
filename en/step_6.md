@@ -14,6 +14,8 @@ Make a variable called `obstacle_x`{:class="blockdata"}.
 
 At the start of the `forever loop`{:class="blockcontrol"}, `set obstacle_x`{:class="blockdata"} to a `random number`{:class="blockoperators"}.
 
+![obstacle sprite](images/obstacle_sprite.png)
+
 ```blocks
 when green flag clicked
 forever 
@@ -32,6 +34,8 @@ end
 --- task ---
 
 Use the `obstacle_x`{:class="blockdata"} variable in the `go to`{:class="blockmotion"} block and the `glide`{:class="blockmotion"} block.
+
+![obstacle sprite](images/obstacle_sprite.png)
 
 ```blocks
 when green flag clicked

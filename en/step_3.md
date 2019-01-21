@@ -12,6 +12,8 @@ First, make the skier move and point to the left. Your code needs to:
 1. Change the angle the sprite is `pointed`{:class="blockmotion"}
 1. Move the sprite to the left by `changing x`{:class="blockmotion"}
 
+![skier sprite](images/skier_sprite_small.png)
+
 ```blocks
 when [left arrow v] key pressed
 point in direction (105 v)
@@ -50,6 +52,8 @@ change x by (10)
 --- hint ---
 
 Your code should look like this:
+
+![skier sprite](images/skier_sprite_small.png)
 
 ```blocks
 when [right arrow v] key pressed
