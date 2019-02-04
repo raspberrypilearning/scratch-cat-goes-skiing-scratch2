@@ -1,6 +1,6 @@
-# scratch-cat-goes-skiing-scratch2
+# scratch-cat-goes-skiing
 
-![scratch-cat-goes-skiing-scratch2](banner.png)
+![scratch-cat-goes-skiing](/en/images/banner.png)
 
 Find the project online at [projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2](https://projects.raspberrypi.org/en/projects/scratch-cat-goes-skiing-scratch2)
 
