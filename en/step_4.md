@@ -20,7 +20,7 @@ Choose a sprite from the library that will serve as an obstacle — it can be an
 
 [[[generic-scratch-sprite-from-library]]]
 
---- /task ---
+--- /task --- 
 
 --- task ---
 
